@@ -2,7 +2,7 @@ package com.java8learning.example;
 
 import java.util.function.Supplier;
 
-public class GenerateOTP {
+public class SupplierMethod {
 
 	public static void main(String[] args) {
 		Supplier<String> s = () -> {
